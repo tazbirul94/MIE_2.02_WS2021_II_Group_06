@@ -1,0 +1,34 @@
+;station_id;longitude;latitude;altitude;name;state;total_rainfall_value
+0;216;7.8807;51.1143;298;Attendorn-Neulisternohl;Nordrhein-Westfalen;273.7
+1;389;8.4318;51.0148;436;Berleburg, Bad-Arfeld;Nordrhein-Westfalen;175.59999999999994
+2;390;8.3683;50.9837;610;Berleburg, Bad-St�nzel;Nordrhein-Westfalen;179.20000000000005
+3;613;9.2324;51.5677;206;Borgentreich;Nordrhein-Westfalen;130.09999999999997
+4;644;9.1738;51.7049;150;Brakel;Nordrhein-Westfalen;114.99999999999997
+5;796;8.1257;50.7556;412;Burbach-W�rgendorf;Nordrhein-Westfalen;168.00000000000009
+6;934;8.5658;51.7835;88;Delbr�ck;Nordrhein-Westfalen;116.8
+7;1300;8.1565;51.254;351;Eslohe;Nordrhein-Westfalen;201.79999999999998
+8;2483;8.4891;51.1803;839;Kahler Asten;Nordrhein-Westfalen;222.19999999999993
+9;2947;8.0348;51.1333;286;Lennestadt-Theten;Nordrhein-Westfalen;291.09999999999997
+10;3028;8.8388;51.7854;157;Lippspringe, Bad;Nordrhein-Westfalen;179.29999999999995
+11;3031;8.3945;51.6336;92;Lippstadt-B�kenf�rde;Nordrhein-Westfalen;157.1
+12;3098;7.6425;51.2452;387;L�denscheid;Nordrhein-Westfalen;169.09999999999997
+13;3215;8.7125;51.1683;375;Medebach-Berge;Nordrhein-Westfalen;189.29999999999993
+14;3499;7.853;51.2915;292;Neuenrade-Blintrop;Nordrhein-Westfalen;191.6
+15;4127;7.6958;50.9906;347;Reichshof-Eckenhagen;Nordrhein-Westfalen;137.8
+16;4313;8.4342;51.4966;370;R�then;Nordrhein-Westfalen;234.20000000000002
+17;4368;8.5796;51.7098;93;Salzkotten;Nordrhein-Westfalen;140.8
+18;4400;8.1808;51.5439;171;Sassendorf, Bad-Beusingsen;Nordrhein-Westfalen;131.70000000000002
+19;4488;8.2672;51.2127;443;Schmallenberg-Sellinghausen;Nordrhein-Westfalen;261.79999999999995
+20;4692;7.9966;50.8534;229;Siegen (Kl�ranlage);Nordrhein-Westfalen;144.89999999999998
+21;5347;9.1118;51.5039;236;Warburg;Nordrhein-Westfalen;119.60000000000001
+22;5360;8.2665;51.4319;331;Warstein-Hirschberg;Nordrhein-Westfalen;252.79999999999993
+23;5468;7.8475;50.9377;418;Wenden-D�rnscheid;Nordrhein-Westfalen;152.09999999999997
+24;5480;7.8879;51.5763;85;Werl;Nordrhein-Westfalen;169.3
+25;5619;7.4234;51.1637;360;Wipperf�rth-Gardeweg;Nordrhein-Westfalen;207.3
+26;5699;8.7784;51.5427;312;W�nnenberg-Eilern;Nordrhein-Westfalen;179.70000000000002
+27;6264;8.65;51.414;457;Brilon-Th�len;Nordrhein-Westfalen;132.9
+28;6276;7.7813;51.4895;235;Fr�ndenberg-Hohenheide;Nordrhein-Westfalen;172.79999999999998
+29;6313;7.4672;51.2488;440;Breckerfeld-Wengeberg;Nordrhein-Westfalen;216.8
+30;7330;7.978;51.4633;159;Arnsberg-Neheim;Nordrhein-Westfalen;214.20000000000002
+31;13700;7.3412;51.3329;203;Gevelsberg-Oberbr�king;Nordrhein-Westfalen;180.8
+32;13713;7.6289;51.0899;386;Meinerzhagen-Redlendorf;Nordrhein-Westfalen;182.9

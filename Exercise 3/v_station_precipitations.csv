@@ -1,0 +1,84 @@
+station_id,ts,val,name
+216,2018/06/17 01:00:00,0,Attendorn-Neulisternohl
+389,2018/06/17 01:00:00,1.8,"Berleburg, Bad-Arfeld"
+390,2018/06/17 01:00:00,3,"Berleburg, Bad-Stünzel"
+554,2018/06/17 01:00:00,0,Bocholt-Liedern (Wasserwerk)
+603,2018/06/17 01:00:00,0,Königswinter-Heiderhof
+613,2018/06/17 01:00:00,0,Borgentreich
+617,2018/06/17 01:00:00,0,Borken in Westfalen
+644,2018/06/17 01:00:00,0,Brakel
+796,2018/06/17 01:00:00,0,Burbach-Würgendorf
+871,2018/06/17 01:00:00,0,Coesfeld
+902,2018/06/17 01:00:00,0,Dahlem-Schmidtheim
+934,2018/06/17 01:00:00,0.2,Delbrück
+989,2018/06/17 01:00:00,0,Dinslaken
+1024,2018/06/17 01:00:00,0,Dormagen-Zons
+1046,2018/06/17 01:00:00,0,Drensteinfurt
+1078,2018/06/17 01:00:00,0,Düsseldorf
+1241,2018/06/17 01:00:00,0.4,Enger
+1246,2018/06/17 01:00:00,0,Ennigerloh-Ostenfelde
+1300,2018/06/17 01:00:00,0,Eslohe
+1303,2018/06/17 01:00:00,0,Essen-Bredeney
+1327,2018/06/17 01:00:00,0,Weilerswist-Lommersum
+1590,2018/06/17 01:00:00,0,Geldern-Walbeck
+1595,2018/06/17 01:00:00,0,Gelsenkirchen-Buer
+1766,2018/06/17 01:00:00,0,Münster/Osnabrück
+2027,2018/06/17 01:00:00,0.1,Harsewinkel
+2110,2018/06/17 01:00:00,0,Heinsberg-Schleiden
+2254,2018/06/17 01:00:00,0,Hörstel-Riesenbeck
+2473,2018/06/17 01:00:00,0,Jülich (Kläranlage)
+2483,2018/06/17 01:00:00,0.9,Kahler Asten
+2497,2018/06/17 01:00:00,0,Kall-Sistig
+2629,2018/06/17 01:00:00,0,Kleve
+2667,2018/06/17 01:00:00,0,Köln-Bonn
+2810,2018/06/17 01:00:00,0.6,"Lage, Kreis Lippe-Hörste"
+2947,2018/06/17 01:00:00,0.1,Lennestadt-Theten
+2968,2018/06/17 01:00:00,0,Köln-Stammheim
+2999,2018/06/17 01:00:00,0,Lienen-Kattenvenne
+3028,2018/06/17 01:00:00,0.1,"Lippspringe, Bad"
+3031,2018/06/17 01:00:00,0.2,Lippstadt-Bökenförde
+3081,2018/06/17 01:00:00,0.4,Espelkamp-Isenstedt
+3098,2018/06/17 01:00:00,0,Lüdenscheid
+3215,2018/06/17 01:00:00,0.6,Medebach-Berge
+3321,2018/06/17 01:00:00,0,Mönchengladbach-Hilderath
+3339,2018/06/17 01:00:00,0,Monschau-Kalterherberg
+3499,2018/06/17 01:00:00,0,Neuenrade-Blintrop
+3540,2018/06/17 01:00:00,0,Neunkirchen-Seelscheid-Krawinkel
+3591,2018/06/17 01:00:00,0,Nideggen-Schmidt
+3795,2018/06/17 01:00:00,0,Olfen
+3913,2018/06/17 01:00:00,2,Petershagen
+4063,2018/06/17 01:00:00,0,Rahden-Kleinendorf
+4127,2018/06/17 01:00:00,0,Reichshof-Eckenhagen
+4150,2018/06/17 01:00:00,0,Reken
+4313,2018/06/17 01:00:00,0.2,Rüthen
+4368,2018/06/17 01:00:00,0.2,Salzkotten
+4371,2018/06/17 01:00:00,3.1,"Salzuflen, Bad"
+4400,2018/06/17 01:00:00,0,"Sassendorf, Bad-Beusingsen"
+4488,2018/06/17 01:00:00,0.1,Schmallenberg-Sellinghausen
+4741,2018/06/17 01:00:00,0,Solingen-Hohenscheid
+4849,2018/06/17 01:00:00,0,Steinfurt-Burgsteinfurt
+5064,2018/06/17 01:00:00,0,Tönisvorst
+5347,2018/06/17 01:00:00,0,Warburg
+5360,2018/06/17 01:00:00,0,Warstein-Hirschberg
+5480,2018/06/17 01:00:00,0,Werl
+5513,2018/06/17 01:00:00,0,Westerkappeln
+5619,2018/06/17 01:00:00,0,Wipperfürth-Gardeweg
+5699,2018/06/17 01:00:00,0.2,Wünnenberg-Eilern
+5717,2018/06/17 01:00:00,0,Wuppertal-Buchenhofen
+5733,2018/06/17 01:00:00,0,Xanten
+6197,2018/06/17 01:00:00,0.1,Lügde-Paenbruch
+6264,2018/06/17 01:00:00,0.3,Brilon-Thülen
+6313,2018/06/17 01:00:00,0.1,Breckerfeld-Wengeberg
+6337,2018/06/17 01:00:00,0,Lüdinghausen-Brochtrup
+7106,2018/06/17 01:00:00,0.1,Bielefeld-Deppendorf
+7330,2018/06/17 01:00:00,0,Arnsberg-Neheim
+7344,2018/06/17 01:00:00,0,Nettetal-Hülst
+7374,2018/06/17 01:00:00,0,Ahaus
+7378,2018/06/17 01:00:00,0,Bedburg-Weiler Hohenholz
+13669,2018/06/17 01:00:00,0,Ostbevern-Schirlheide
+13670,2018/06/17 01:00:00,0,Duisburg-Baerl
+13671,2018/06/17 01:00:00,0,Overath-Böke
+13696,2018/06/17 01:00:00,0,Waltrop-Abdinghof
+13700,2018/06/17 01:00:00,0,Gevelsberg-Oberbröking
+13713,2018/06/17 01:00:00,0,Meinerzhagen-Redlendorf
+15000,2018/06/17 01:00:00,0,Aachen-Orsbach
